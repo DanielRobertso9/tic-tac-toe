@@ -14,8 +14,6 @@ function App() {
     setPlayer(true)
   }
 
-  
-
   return (
     <div className="App">
         <span><CalculateWinner arr={squares}/></span>
